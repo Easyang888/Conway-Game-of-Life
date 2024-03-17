@@ -36,13 +36,13 @@ src/
 2. 在项目目录中编译 Java 程序：
 
    ```
-   javac GameOfLife.java
+   javac src/Main.java
    ```
 
 3. 运行游戏：
 
    ```
-   java GameOfLife
+   java src/Main
    ```
 
 ## 特性
