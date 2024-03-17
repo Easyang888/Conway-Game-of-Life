@@ -30,7 +30,7 @@ src/
 1. 克隆仓库到本地：
 
    ```
-   git clone https://gitee.com/Snake-Konginchrist/Conway-Game-of-Life.git
+   git clone https://github.com/Snake-Konginchrist/Conway-Game-of-Life.git
    ```
 
 2. 在项目目录中编译 Java 程序：
