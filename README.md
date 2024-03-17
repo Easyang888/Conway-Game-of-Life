@@ -17,8 +17,7 @@ src/
 │   └── GameOfLifeModel.java
 │
 ├── view/
-│   ├── GameOfLifeView.java
-│   └── ControlPanel.java
+│   └── GameOfLifeView.java
 │
 ├── controller/
 │   └── GameOfLifeController.java
